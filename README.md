@@ -28,7 +28,7 @@ ml-models-playground
 | └── README.md
 │
 └── README.md
-```text
+```
 
 Ogni progetto è disponibile sia come **Jupyter Notebook** (per l'esplorazione e la spiegazione del processo) sia come **script Python**.
 

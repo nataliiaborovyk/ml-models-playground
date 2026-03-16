@@ -20,7 +20,8 @@ ml-models-playground
 │
 ├── cifar10_cnn
 │ ├── cifar10_cnn.ipynb
-│ └── cifar10_cnn.py
+│ |── cifar10_cnn.py
+| └── README.md
 │
 ├── tennis_match_prediction
 │ ├── tennis_match_prediction.ipynb
